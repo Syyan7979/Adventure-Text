@@ -1,0 +1,8 @@
+﻿You wake up one day in a room you do not recognize. You then see a yellow dog sleeping in the drawer of a cabinet and you don't recognize this dog. You also notice that you are in a pajama. 
+
+You can pat the sleeping dog. Or you can find yourself out of the said room. Or you can check your bed for clues.
+
+What shall you do?
+1. Walk to the dog and pat him.
+2. Find yourself out of the room.
+3. Check your bed for clues about yourself.
